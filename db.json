@@ -1,0 +1,197 @@
+{"questions": 
+    [
+        {
+           "id":0,
+           "question":"How did Daenerys Targaryen eventually hatch her dragon eggs?",
+           "answers":{
+               "a":"In a lightning storm",
+               "b":"In a funeral pyre",
+               "c":"In a fire place",
+               "d":"In a frozen cave"
+           },
+           "correct-answer":"b",
+           "image":"./assets/img/question0.jpg" 
+        },
+        {
+            "id":1,
+            "question":"Which U.S. city was one of 8 international locations visited by the 2015 'Game of Thrones' Exhibition??",
+            "answers":{
+                "a":"Chicago",
+                "b":"New York City",
+                "c":"San Diego",
+                "d":"Boston"
+            },
+            "correct-answer":"c",
+            "image":"./assets/img/question1.jpg" 
+         },
+        {
+            "id":2,
+            "question":"The phrase 'Valar Morghulis' or 'all men must die' is usually responded with:",
+            "answers":{
+                "a":"Valar Dohaeris or 'all men must serve'",
+                "b":"Valar Rohnas or 'all men must live'",
+                "c":"Valar GoGo or 'all men must dance'"
+                
+            },
+            "correct-answer":"a",
+            "image":"./assets/img/question2.jpg" 
+         },
+        {
+            "id":3,
+            "question":"American actor Peter Dinklage, who plays Tyrion Lannister, also had a starring role in this fantasy franchise:",
+            "answers":{
+                "a":"Lord of the Rings",
+                "b":"Highlander",
+                "c":"The Chronicles of Narnia",
+                "d": "The Legend of Zelda"
+                
+            },
+            "correct-answer":"c",
+            "image":"./assets/img/question3.jpg" 
+         },
+        {
+            "id":4,
+            "question":"What is the only thing that can put out volatile Wildfire?",
+            "answers":{
+                "a":"Sand",
+                "b":"Water",
+                "c":"Dragon's blood",
+                "d": "Sunlight"
+                
+            },
+            "correct-answer":"a",
+            "image":"./assets/img/question4.jpg" 
+         },
+        {
+            "id":5,
+            "question":"Besides dragonglass, what is the only other substance capable of defeating White Walkers?",
+            "answers":{
+                "a":"Weirwood",
+                "b":"Wildfire",
+                "c":"Valyrian Steel",
+                "d": "Snowballs"
+                
+            },
+            "correct-answer":"c",
+            "image":"./assets/img/question5.jpg" 
+         },
+        {
+            "id":6,
+            "question":"How many times has Beric Dondarrion been brought back to life?",
+            "answers":{
+                "a":"Three times",
+                "b":"Five times",
+                "c":"Six times",
+                "d": "Seven times"
+                
+            },
+            "correct-answer":"c",
+            "image":"./assets/img/question6.jpg" 
+         },
+        {
+            "id":7,
+            "question":"Which Stark family direwolf was killed in retaliation for an attack on Prince Joffrey?",
+            "answers":{
+                "a":"Ghost",
+                "b":"Lady",
+                "c":"Nymeria",
+                "d": "Summer"
+                
+            },
+            "correct-answer":"b",
+            "image":"./assets/img/question7.jpg" 
+         },
+        {
+            "id":8,
+            "question":"Arya's punishment for stealing from the Many-Face God is:",
+            "answers":{
+                "a":"Death",
+                "b":"Memory loss",
+                "c":"Blindness",
+                "d": "Uncontrollable laughter"
+                
+            },
+            "correct-answer":"c",
+            "image":"./assets/img/question8.jpg" 
+         },
+        {
+            "id":9,
+            "question":"'It's nothing' were the last words of this infamous character:",
+            "answers":{
+                "a":"Renly Baratheon",
+                "b":"Tywin Lannister",
+                "c":"Robb Stark",
+                "d": "King Joffrey"
+                
+            },
+            "correct-answer":"d",
+            "image":"./assets/img/question9.jpg" 
+         },
+        {
+            "id":10,
+            "question":"The name of King Tommen's favorite cat is:",
+            "answers":{
+                "a":"Battle Pus",
+                "b":"Little Lion",
+                "c":"Ser Pounce",
+                "d": "Prince Fuzzy"
+                
+            },
+            "correct-answer":"c",
+            "image":"./assets/img/question10.jpg" 
+         },
+        {
+            "id":11,
+            "question":"What was the name of Ned Stark's greatsword?",
+            "answers":{
+                "a":"Ice",
+                "b":"Oathkeeper",
+                "c":"Widow's Wail",
+                "d": "Northguard"
+                
+            },
+            "correct-answer":"a",
+            "image":"./assets/img/question11.jpg" 
+         },
+        {
+            "id":12,
+            "question":"Who shoots the flaming arrow that subsequently destroy's Stannis' fleet in Blackwater Bay?",
+            "answers":{
+                "a":"Tyrion Lannister",
+                "b":"King Joffrey",
+                "c":"Jamie Lannister",
+                "d": "Bronn"
+                
+            },
+            "correct-answer":"d",
+            "image":"./assets/img/question12.jpg" 
+         },
+        {
+            "id":13,
+            "question":"Prince Oberyn Martell is nicknamed the 'Red Viper' because of his combat and:",
+            "answers":{
+                "a":"Pride in drawing blood first",
+                "b":"Knowledge of poisons",
+                "c":"Nighttime attacks",
+                "d": "Ruby-colored armor"
+                
+            },
+            "correct-answer":"b",
+            "image":"./assets/img/question13.jpg" 
+         },
+        {
+            "id":14,
+            "question":"The Night King was created using a dagger made of:",
+            "answers":{
+                "a":"Valyrian Steel",
+                "b":"Blue Ice",
+                "c":"Dragonglass",
+                "d": "Weirwood"
+                
+            },
+            "correct-answer":"c",
+            "image":"./assets/img/question14.jpg" 
+         }
+    ]
+}
+  
